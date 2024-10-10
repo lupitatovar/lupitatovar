@@ -6,14 +6,15 @@ Lupita is a nickname for Guadalupe, and it is often what I go by.
 
 😄 Pronouns:she/her/ella
 
-I am a graduate student at the University of Washington in Seattle pursuing a dual-title PhD in Astronomy and Astrobiology. I am interested in the relationship between stars and planets, mainly how stellar magnetic activty affects our ability to detect and characterize exoplanets.
+I am a NSF MPS-Ascend Postdoctoral Research Fellow at Johns Hopkins University. I earned a dual-title PhD in Astronomy and Astrobiology from the University of Washington. I am interested in the relationship between stars and planets, mainly how stellar magnetic activty affects our ability to detect and characterize exoplanets.
 
 🔭 I’m currently working on:
 - Modeling stellar flares (You can find and use the [flare template here](https://github.com/lupitatovar/Llamaradas-Estelares))
 - Understanding multi-wavelength flare properties using Kepler & TESS
+- Modeling infrared flares using JWST
 
 📫 How to reach me: 
-- tovarg[at]uw.edu
+- gtovarm1@jh.edu
 <!--
 **lupitatovar/lupitatovar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
